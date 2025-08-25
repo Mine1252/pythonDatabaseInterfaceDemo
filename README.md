@@ -1,6 +1,6 @@
 # Introduction
 
-This document explains how to interface python with a PostgreSQL database. 
+This Repo explains how to interface python with a PostgreSQL database. 
 
 ## Basics
 

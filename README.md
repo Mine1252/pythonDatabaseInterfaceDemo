@@ -2,6 +2,8 @@
 
 This Repo explains how to interface python with a PostgreSQL database. 
 
+This Repo assumes you know the basics of python and its terminology.
+
 ## Basics
 
 To interface python with a postgreSQL database we will be using the **PSYCOPG2** python library

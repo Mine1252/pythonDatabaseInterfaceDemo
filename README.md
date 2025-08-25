@@ -32,7 +32,7 @@ Here are the steps to interface with a postgreSQL database in python
    ```
    cursor.execute("SQL Query Here")
    ```
-5. Finally to retrieve any data from the database into a format that python can use you will need to use one of the fetch commands. Here is each of them and their use:
+5. Finally to retrieve any data from the database into a format that python can use you will need to use one of the fetch methods in the CO. Here is each of them and their use:
    ```
    # This will return a list of tuples containing the queried data.
    data = cursor.fetchall()
